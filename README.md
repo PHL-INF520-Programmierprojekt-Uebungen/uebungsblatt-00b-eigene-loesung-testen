@@ -1,6 +1,13 @@
 # Übungsblatt
 [Link to English version](./README_en.md)
 
+> [!TIP]
+> 💡 **Im Browser arbeiten**
+>
+> [![In GitHub Codespaces öffnen](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new)
+>
+> Wählt nach dem Klick unter **Repository** euer eigenes Repository aus (der Name endet auf euren GitHub-Benutzernamen), nicht die Vorlage. Alternativ öffnet ihr euer Repository auf GitHub und wählt **Code → Codespaces → Create codespace on main**. Wie ihr lokal arbeitet und die Tests startet, steht in [TESTEN.md](./TESTEN.md).
+
 In diesem Übungsblatt lernt ihr Testfälle in Java-Projekten kennen und lernt, wie ihr die integrierten Testfälle nutzen könnt, um eure Lösung zu kontrollieren. 
 Alle Übungsblätter in der Veranstaltung **INF520-Programmierprojekt** enthalten Testfälle, die euch dabei unterstützen sollen, die Aufgaben richtig zu lösen. Die Testfälle helfen euch aber natürlich nur dann, wenn ihr sie auch regelmäßig ausführt.
 In diesem Übungsblatt geht es **nicht** darum, dass ihr selbst Testfälle für eure Programme schreiben könnt. Dies lernt ihr in einem späteren Übungsblatt.

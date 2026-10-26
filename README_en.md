@@ -1,6 +1,13 @@
 # Exercise Sheet
 [Link to German Version](./README.md)
 
+> [!TIP]
+> 💡 **Work in the browser**
+>
+> [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new)
+>
+> After clicking, select your own repository under **Repository** (its name ends with your GitHub username), not the template. Alternatively, open your repository on GitHub and choose **Code → Codespaces → Create codespace on main**. How to work locally and run the tests is described in [TESTEN.md](./TESTEN.md) (German).
+
 In this exercise sheet, you will learn about test cases in Java projects and how to use the integrated test cases to check your solution. All exercise sheets in the course **INF520-Programming Project** include test cases to help you solve the exercises correctly. However, the test cases are only helpful if you run them regularly.
 
 This exercise sheet does **not** require you to write your own test cases for your programs. You will learn how to do this later.
